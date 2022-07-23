@@ -11,6 +11,8 @@
   ```bash
   - React (Front end library)
   - Git(version control)
+  - Context API
+  - TypeScript
   ```
 
 - Technologies used 
