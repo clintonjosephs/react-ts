@@ -13,6 +13,7 @@
   - Git(version control)
   - Context API
   - TypeScript
+  - Styled Components
   ```
 
 - Technologies used 
